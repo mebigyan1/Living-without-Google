@@ -35,3 +35,5 @@ Signal offers free end to end encryption which makes your messages and calls pri
 
 ## 11. Google Groups -> Discourse
 Discourse prides itself on being an open source platform dedicated to discussion. It offers both public and private conversations.
+
+Source: Live Without Google pdf found online
