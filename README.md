@@ -4,7 +4,7 @@ One of the hardest thing to do when you have been using Google for the past seve
 
 Here are the technologies that can replace Google products:
 
-## 1. Google Search -> DuckDuckGo
+## 1. Google Search
 - DuckDuckGo
 
 ## 2. Gmail, Contacts, Calendar
