@@ -20,13 +20,13 @@ Here are the technologies that can replace Google products:
 ## 5. Google Drive
 - Resilio Sync
 
-## 6. Android -> iOS
+## 6. Android
 - iOS
 
-## 7. Chrome -> Firefox
+## 7. Chrome
 - Firefox
 
-## 8. Blogger -> Wordpress
+## 8. Blogger
 - Wordpress
 - Jekyll
 
@@ -37,7 +37,7 @@ Here are the technologies that can replace Google products:
 - Signal (Recommended by Edward Snowden)
 - Telegram
 
-## 11. Google Groups -> Discourse
+## 11. Google Groups
 - Discourse
 
 Extended from Living without Google.
